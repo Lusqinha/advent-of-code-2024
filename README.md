@@ -1,0 +1,83 @@
+# 🎅Advent of Code 2024✨
+
+Este repositório é dedicado para salvar e organizar minhas resoluções para cada um dos dias de desafio!
+
+você também pode participar acessando o [🌟site oficial🌟](https://adventofcode.com/) do evento.
+
+## Desafios concluídos
+
+- [x] Dia 01
+    - [x] Parte 01
+    - [x] Parte 02
+- [x] Dia 02
+    - [x] Parte 01
+    - [x] Parte 02
+- [ ] Dia 03
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 04
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 05
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 06
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 07
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 08
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 09
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 10
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 11
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 12
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 13
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 14
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 15
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 16
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 17
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 18
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 19
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 20
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 21
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 22
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 23
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 24
+    - [ ] Parte 01
+    - [ ] Parte 02
+- [ ] Dia 25
+    - [ ] Parte 01
+    - [ ] Parte 02
