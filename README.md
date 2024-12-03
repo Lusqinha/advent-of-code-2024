@@ -8,5 +8,5 @@ você também pode participar acessando o [🌟site oficial🌟](https://advento
 
 | Dia | Problema | Solução |
 | --- | --- | ---: |
-| 1 | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Código](dia-01/main.py) |
-| 2 | [Red-Nosed Reports](https://adventofcode.com/2024/day/2) | [Código](dia-02/main.py) |
+| 01 | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Código](dia-01/main.py) |
+| 02 | [Red-Nosed Reports](https://adventofcode.com/2024/day/2) | [Código](dia-02/main.py) |
